@@ -19,3 +19,5 @@ gem "jquery-rails"
 gem 'pry', require: false
 gem 'pry-debugger'
 gem 'pry-rails'
+#temp for rails 4 migration
+gem 'protected_attributes'
